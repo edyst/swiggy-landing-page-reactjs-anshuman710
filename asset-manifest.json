@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/swiggyproject/static/css/main.bb2a91a8.chunk.css",
+    "main.css": "/swiggyproject/static/css/main.41c1985a.chunk.css",
     "main.js": "/swiggyproject/static/js/main.7e273319.chunk.js",
     "main.js.map": "/swiggyproject/static/js/main.7e273319.chunk.js.map",
     "runtime-main.js": "/swiggyproject/static/js/runtime-main.957be86e.js",
@@ -10,7 +10,7 @@
     "static/js/3.72e6fc7f.chunk.js": "/swiggyproject/static/js/3.72e6fc7f.chunk.js",
     "static/js/3.72e6fc7f.chunk.js.map": "/swiggyproject/static/js/3.72e6fc7f.chunk.js.map",
     "index.html": "/swiggyproject/index.html",
-    "static/css/main.bb2a91a8.chunk.css.map": "/swiggyproject/static/css/main.bb2a91a8.chunk.css.map",
+    "static/css/main.41c1985a.chunk.css.map": "/swiggyproject/static/css/main.41c1985a.chunk.css.map",
     "static/js/2.2079eebe.chunk.js.LICENSE.txt": "/swiggyproject/static/js/2.2079eebe.chunk.js.LICENSE.txt",
     "static/media/hero.css": "/swiggyproject/static/media/Lun.70d3f77a.jpeg",
     "static/media/Lunch.f2f26689.jpeg": "/swiggyproject/static/media/Lunch.f2f26689.jpeg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.957be86e.js",
     "static/js/2.2079eebe.chunk.js",
-    "static/css/main.bb2a91a8.chunk.css",
+    "static/css/main.41c1985a.chunk.css",
     "static/js/main.7e273319.chunk.js"
   ]
 }
